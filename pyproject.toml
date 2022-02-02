@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "bioplastic-design"
+version = "0.1.0"
+description = ""
+authors = ["Chris <christopher.kuenneth@gmail.com>"]
+readme = "README.md"
+packages = [{include = "bioplastic_design"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pandas = "^1.4.0"
+ipykernel = "^6.8.0"
+scikit-learn = "^1.0.2"
+rdkit-pypi = "^2021.9.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
