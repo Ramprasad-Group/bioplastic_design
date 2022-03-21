@@ -15,3 +15,5 @@ poetry install
 [search_space.ipynb](bioplastic_design/search_space.ipynb) -  Create a polymer search space (here bioplastic search space). Predictors are not included.
 
 [screening.ipynb](bioplastic_design/screening.ipynb) - Use this notebook to screen for polymers with specific property values.
+  
+[candidates.txt](bioplastic_design/candidates.txt) - 70 bioplastic candidates for the 7 mainstream plastics (see paper for more information)
