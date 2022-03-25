@@ -1,6 +1,11 @@
-# Code for the work "Bioplastic Design using Multitask Deep Neural Networks"
+# Code for paper: Bioplastic Design using Multitask Deep Neural Networks
 
-This repository contains the code for the paper "Bioplastic Design using Multitask Deep Neural Networks" published at [Arxiv](https://arxiv.org/abs/2203.12033). The final predictors are not included in this repository, but can be accessed at [PolymerGenome](https://polymergenome.org).
+This repository contains the code for the paper "Bioplastic Design using Multitask Deep Neural Networks" published at [Arxiv](https://arxiv.org/abs/2203.12033). It contains two notebooks that show the creation of the bioplastic search space and screening of bioreplacements for commodity plastics. The predictors are not included in this repository but are made available as a part of the [PolymerGenome](https://polymergenome.org) project.
+
+Abstract:
+
+Non-degradable plastic waste stays for decades on land and in water, jeopardizing our environment; yet our modern lifestyle and current technologies are impossible to sustain without plastics. Bio-synthesized and biodegradable alternatives such as the polymer family of polyhydroxyalkanoates (PHAs) have the potential to replace large portions of the world's plastic supply with cradle-to-cradle materials, but their chemical complexity and diversity limit traditional resource-intensive experimentation. In this work, we develop multitask deep neural network property predictors using available experimental data for a diverse set of nearly 23000 homo- and copolymer chemistries. Using the predictors, we identify 14 PHA-based bioplastics from a search space of almost 1.4 million candidates which could serve as potential replacements for seven petroleum-based commodity plastics that account for 75% of the world's yearly plastic production. We discuss possible synthesis routes for these identified promising materials. 
+
 
 ## Install
 
