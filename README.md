@@ -1,6 +1,6 @@
 # Code for the work "Bioplastic Design using Multitask Deep Neural Networks"
 
-This repository contains the code for the paper "Bioplastic Design using Multitask Deep Neural Networks" published at [Arxiv](https://arxiv.org/abs/xxxxxxx). The final predictors are not included in this repository, but can be accessed at [PolymerGenome](https://polymergenome.org).
+This repository contains the code for the paper "Bioplastic Design using Multitask Deep Neural Networks" published at [Arxiv](https://arxiv.org/abs/2203.12033). The final predictors are not included in this repository, but can be accessed at [PolymerGenome](https://polymergenome.org).
 
 ## Install
 
