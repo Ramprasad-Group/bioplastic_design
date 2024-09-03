@@ -1,5 +1,7 @@
 # Code for paper: Bioplastic Design using Multitask Deep Neural Networks
 
+# IMPORTANT NOTE: The code and data shared here is available for academic non-commercial use only
+
 This repository contains the code for the paper "Bioplastic Design using Multitask Deep Neural Networks" published at [Arxiv](https://arxiv.org/abs/2203.12033). It contains two notebooks that show the creation of the bioplastic search space and screening of bioreplacements for commodity plastics. The predictors are not included in this repository but are made available as a part of the [PolymerGenome](https://polymergenome.org) project.
 
 Abstract:
